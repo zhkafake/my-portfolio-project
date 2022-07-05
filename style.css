@@ -56,3 +56,16 @@
 .gray {
   background-color: aliceblue;
 }
+.btn-branding {
+  text-decoration: none;
+  margin: 10px 10px 10px 10px;
+  background: black;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+.btn-branding:hover {
+  color: azure;
+}
