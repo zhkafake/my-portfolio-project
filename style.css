@@ -1,0 +1,58 @@
+.card-group {
+  font-family: "Roboto Mono", monospace;
+}
+.aboutUs {
+  font-family: "Shadows Into Light", cursive;
+  color: #ac2a5e;
+  font-size: 30px;
+}
+.tyler {
+  width: 50%;
+  height: 50%;
+}
+.logo {
+  display: block;
+  padding: 0 auto;
+  top: 5px;
+  background-color: #ffffff;
+}
+.cart {
+  position: relative;
+  height: 100%;
+  font-size: 20px;
+  left: 155px;
+  top: 40px;
+}
+.upper {
+  position: fixed;
+  background-color: #ffffff;
+}
+.carousel-inner {
+  display: inline-block;
+}
+.text {
+  font-family: "Roboto Mono", monospace;
+  color: black;
+  font-size: 20px;
+}
+.telegram {
+  color: rgba(53, 188, 215, 0.82);
+  font-size: 80px;
+  padding-left: 10px;
+}
+.instagram {
+  font-size: 80px;
+  padding-left: 7px;
+}
+.promocode {
+  font-family: "Shadows Into Light", cursive;
+  transition: all 200ms all-in-ease;
+  text-align: center;
+}
+.promocode:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.gray {
+  background-color: aliceblue;
+}
