@@ -1,3 +1,8 @@
+@media (max-width: 576px) {
+  .contacts {
+    text-align: center;
+  }
+}
 .card-group {
   font-family: "Roboto Mono", monospace;
 }
@@ -74,4 +79,15 @@
   color: black;
   font-size: 40px;
   text-align: center;
+}
+.text-second {
+  font-family: "Roboto Mono", monospace;
+  color: black;
+  font-size: 30px;
+}
+.link-contact {
+  font-family: "Roboto Mono", monospace;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
 }
